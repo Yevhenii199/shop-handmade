@@ -35,8 +35,9 @@ header .container {
 }
 
 .logo {
-    width: 180px;
-    height: auto;
+    width: 250px;
+
+    height: 150px;
     border-radius: 20px;
 }
 
@@ -207,7 +208,8 @@ a:hover{
     }
 
     .logo {
-        width: 120px;
+        width: 250px;
+        height: auto;
     }
 
     #hero {
