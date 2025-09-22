@@ -56,6 +56,7 @@ header .container {
     font-size: 1.2rem;
     transition: color 0.3s ease;
     border: 2px solid #8b4513;
+    border-radius: 6px;
 }
 
 .lang-btn:hover, .lang-btn.active {
